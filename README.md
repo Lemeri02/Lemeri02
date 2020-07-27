@@ -3,7 +3,9 @@
 
 ----------
 
-[Telegram](https://t.me/lemeri)
+✔️ [Telegram](https://t.me/lemeri)
+
+✔️ [Curriculum vitae](https://lemeri02.github.io/cv/)
 
 
 <!--
