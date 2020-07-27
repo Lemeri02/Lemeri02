@@ -1,11 +1,11 @@
 ### 👋!   💎 Ruby on Rails Developer. Open to New Opportunities.
-### SKILLS: Ruby, Ruby on Rails, Javascript, HTML, CSS, Bootstrap, PostgreSQL, Redis, Git, GitHub, Linux, Nginx, OOP, RSpec, Capybara, VPS, Capistrano
+### Skills: Ruby, Ruby on Rails, Javascript, HTML, CSS, Bootstrap, PostgreSQL, Redis, Git, GitHub, Linux, Nginx, OOP, RSpec, Capybara, VPS, Capistrano
 
 ----------
 
 ✔️ [Telegram](https://t.me/lemeri)
 
-✔️ [Curriculum vitae](https://lemeri02.github.io/cv/)
+✔️ [CV](https://lemeri02.github.io/cv/)
 
 
 <!--
