@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋!  Ruby on Rails💎 разработчик. В поисках работы в удаленном формате.
 
 <!--
 **Lemeri02/Lemeri02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
