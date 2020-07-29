@@ -3,7 +3,7 @@
 
 ----------
 
-✔️ [Telegram](https://t.me/lemeri)
+✔️ [Telegram @lemeri](https://t.me/lemeri)
 
 ✔️ [CV](https://lemeri02.github.io/cv/)
 
