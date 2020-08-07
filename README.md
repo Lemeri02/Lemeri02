@@ -7,6 +7,10 @@
 
 ✔️ [CV](https://lemeri02.github.io/cv/)
 
+----------
+
+![Lemeri02's github stats](https://github-readme-stats.vercel.app/api?username=Lemeri02&show_icons=true&theme=radical)
+
 
 <!--
 **Lemeri02/Lemeri02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
