@@ -9,7 +9,7 @@
 
 ----------
 
-![Lemeri02's github stats](https://github-readme-stats.vercel.app/api?username=Lemeri02&show_icons=true&theme=radical)
+![Lemeri02's github stats](https://github-readme-stats.vercel.app/api?username=Lemeri02&show_icons=true)
 
 
 <!--
