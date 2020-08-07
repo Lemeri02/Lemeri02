@@ -8,7 +8,7 @@
 
 - [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn](https://www.linkedin.com/in/iremel/) <br />
 
-- 📄 [Curriculum vitae](https://lemeri02.github.io/cv/)
+- [📄 Curriculum vitae](https://lemeri02.github.io/cv/)
 
 ----------
 
