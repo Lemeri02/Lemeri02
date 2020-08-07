@@ -6,7 +6,7 @@
 
 - [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> Telegram](https://t.me/lemeri) <br />
 
-- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/iremel/) <br />
+- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn](https://www.linkedin.com/in/iremel/) <br />
 
 - 📄 [Curriculum vitae](https://lemeri02.github.io/cv/)
 
