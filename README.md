@@ -4,9 +4,9 @@
 
 ----------
 
-✔️ [Telegram @lemeri](https://t.me/lemeri)
-[<img align="left" alt="AFN | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> ](https://t.me/lemeri)
-[<img align="left" alt="AFN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/iremel/)
+✔️ [<img align="left" alt="AFN | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> ](https://t.me/lemeri)
+
+✔️ [<img align="left" alt="AFN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/iremel/)
 
 ✔️ [CV](https://lemeri02.github.io/cv/)
 
