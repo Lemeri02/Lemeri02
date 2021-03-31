@@ -1,6 +1,6 @@
 ### Hi 👋!   
 ### I'm 💎 Ruby on Rails Developer. Open to New Opportunities.
-### Skills: Ruby, Ruby on Rails, Javascript, HTML, CSS, Bootstrap, PostgreSQL, Redis, Git, GitHub, Linux, Nginx, OOP, RSpec
+### Skills: Ruby, Ruby on Rails, Javascript, HTML, CSS, Bootstrap, Postgres, Redis, Git, GitHub, Linux, , RSpec
 
 ----------
 
