@@ -11,9 +11,6 @@
 - [📄 Curriculum vitae](https://lemeri02.github.io/cv/)
 
 ----------
-
-![Lemeri02's github stats](https://github-readme-stats.vercel.app/api?username=Lemeri02&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemeri02&layout=compact)
 
 <!--
