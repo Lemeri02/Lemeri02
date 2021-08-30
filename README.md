@@ -1,6 +1,5 @@
 ### Hi 👋!   
 ### I'm a 💎 Ruby on Rails Developer
-### Skills: Ruby, Ruby on Rails, Javascript, HTML, CSS, Bootstrap, Postgres
 
 ----------
 
